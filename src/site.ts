@@ -4,9 +4,9 @@
 
 export default {
   title: 'Vue Designer',
-  description: 'Vue Designer îles Tailwind CSS - Quick start template',
+  description: 'Vue Designer îles Shadcn Vue - Quick start template',
   author: 'Pinegrow',
-  url: 'https://pg-iles-tailwindcss.netlify.app',
+  url: 'https://pg-iles-shadcn-vue.netlify.app',
   nav: [
     { text: 'Home', link: '/' },
     { text: `Quick Start`, link: '/quick-start' },

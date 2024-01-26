@@ -32,7 +32,7 @@
           </div>
           <div class="p-5 text-center w-full whitespace-nowrap">
             <h5>UI-framework</h5>
-            <p class="text-primary-600 dark:text-primary-200">Tailwind CSS</p>
+            <p class="text-primary-600 dark:text-primary-200">Shadcn Vue</p>
           </div>
         </div>
       </div>

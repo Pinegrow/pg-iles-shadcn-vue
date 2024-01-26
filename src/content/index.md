@@ -1,8 +1,8 @@
-# Vue Designer îles Tailwind CSS - Quick start template
+# Vue Designer îles Shadcn-Vue - Quick start template
 
 This is a starter template that pre-includes the [Pinegrow îles Module](https://www.npmjs.com/package/@pinegrow/iles-module), [Pinegrow Tailwind CSS Plugin](https://www.npmjs.com/package/@pinegrow/tailwindcss-plugin) and other goodies for Vue Designer.
 
-Demo - https://pg-iles-tailwindcss.netlify.app/
+Demo - https://pg-iles-shadcn-vue.netlify.app/
 
 ## Vue Designer
 
@@ -18,15 +18,15 @@ Clean code 😃, No lock-in - You are in control of your projects and developmen
 
 ### 1. Clone to local
 
-[Create a repo from this template on GitHub](https://github.com/pinegrow/pg-iles-tailwindcss/generate).
+[Create a repo from this template on GitHub](https://github.com/pinegrow/pg-iles-shadcn-vue/generate).
 
 (or)
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx giget@latest gh:pinegrow/pg-iles-tailwindcss my-iles-tailwindcss-app #project-name
-cd my-iles-tailwindcss-app
+npx giget@latest gh:pinegrow/pg-iles-shadcn-vue my-iles-shadcn-vue-app #project-name
+cd my-iles-shadcn-vue-app
 npm install #or use pnpm
 ```
 
@@ -35,8 +35,8 @@ npm install #or use pnpm
 If you prefer a blank template (a single empty home page) instead,
 
 ```bash
-npx giget@latest gh:pinegrow/pg-iles-tailwindcss#blank my-iles-tailwindcss-app #project-name
-cd my-iles-tailwindcss-app
+npx giget@latest gh:pinegrow/pg-iles-shadcn-vue#blank my-iles-shadcn-vue-app #project-name
+cd my-iles-shadcn-vue-app
 npm install #or use pnpm
 ```
 
@@ -75,7 +75,7 @@ And you will see the generated file in `dist` that's ready to be served.
 ### Deploy to Netlify
 
 You can deploy this repo as a site on your own to explore and experiment with, by clicking this button.
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Pinegrow/pg-iles-tailwindcss)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Pinegrow/pg-iles-shadcn-vue)
 
 Check out the [deployment documentation](https://iles.pages.dev/guide/deployment) for more information.
 
@@ -95,6 +95,9 @@ Check out the [deployment documentation](https://iles.pages.dev/guide/deployment
 ### UI Frameworks
 
 - [Tailwind CSS](https://tailwindcss.com/docs/guides/vite#vue) - The amazing utility-first CSS framework.
+
+- [Shadcn-Vue](https://www.shadcn-vue.com/) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. Under the hood:
+  - 🦾 **[Radix-Vue](https://github.com/radix-vue/radix-vue)** - Completely unstyled, fully accessible UI primitives, designed to integrate beautifully with any CSS framework/library.
 
 ### File-based CMS (markdown)
 
